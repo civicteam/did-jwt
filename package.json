@@ -16,6 +16,7 @@
   ],
   "exports": {
     ".": {
+      "module": "./lib/index.module.js",
       "require": "./lib/index.cjs",
       "import": "./lib/index.module.js"
     }
